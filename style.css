@@ -22,10 +22,11 @@ figcaption{
   font-size: 80%;
 }
 #featured-property p{
-  width: 800px;
+  width: 600px;
   margin-left: auto;
   margin-right: auto;
   text-align: center;
+  font-size: 70%;
 }
 #details{
   display: block;
